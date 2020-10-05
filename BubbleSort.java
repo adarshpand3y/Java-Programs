@@ -1,3 +1,5 @@
+// Bubble Sort Algorithm to sort an array in ascending order
+
 class BubbleSort
 {
     public static void main(String[] args)
@@ -9,7 +11,7 @@ class BubbleSort
         {
             for(j=0; j<ar.length-1-i; j++)
             {
-                if (ar[j]>ar[j+1])
+                if (ar[j]>ar[j+1]) // Change the > sign to < if you want to sort this in descending order
                 {
                     // Exchanging the values
                     int temp = ar[j];
