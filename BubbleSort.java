@@ -1,4 +1,8 @@
-// Bubble Sort Algorithm to sort an array in ascending order
+/**
+ * A program to implement Bubble Sort Algorithm in Java.
+ * Program created by Parenthesis.
+ * Find me on YT/Parenthesis
+*/
 
 class BubbleSort
 {
