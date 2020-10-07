@@ -1,3 +1,9 @@
+/**
+ * A program to implement Linear Search Algorithm in Java.
+ * Program created by Parenthesis.
+ * Find me on YT/Parenthesis
+*/
+
 import java.util.Scanner;
 class LinearSearch
 {
