@@ -1,6 +1,5 @@
 /**
  * A program to implement Selection Sort Algorithm in Java.
- * This program sorts in ascending order
  * Created by Parenthesis
  * Find me on YT/Parenthesis
  */
@@ -16,7 +15,7 @@ class SelectionSort
             min_index = i;
             for(j=i+1; j<ar.length; j++)
             {
-                if (ar[j]<ar[min_index]) // Change < to > if you want to sort in descending order
+                if (ar[j]<ar[min_index])
                 {
                     min_index = j;
                 }
