@@ -1,4 +1,7 @@
 /**
+ * Program created by Parenthesis.
+ * Find me on YT/Parenthesis.
+ * 
  * A number is called Disarium if sum of its digits powered with their respective positions
  * is equal to the number itself.
  *
