@@ -1,4 +1,7 @@
 /**
+ * Program created by Parenthesis
+ * Find me on YT/Parenthesis
+ * 
  * Write a program to enter a sentence and print the sentence after removing all vowels.
  */
 
